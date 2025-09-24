@@ -2,4 +2,4 @@
 This is my professional journey.
 This repository contains my latest professional resume (PDF version)
 Feel free to connect with me on [LinkedIn] (https://linkedin.com/in/flavia-badra-psi/)
-📄 [Click here to download my CV](CV Flavia Badra - Sept 9.pdff)
+📄 [Click here to download my CV] (CV_Flavia_Badra.pdf)
